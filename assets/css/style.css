@@ -1,4 +1,4 @@
-/* Universal Styles*/
+/* Universal Styles */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -18,7 +18,7 @@ p{
     font-size: 16px;
 }
 
-/*Header*/
+/* Header */
 
 header {
     padding: 20px;
@@ -61,7 +61,7 @@ header h1 span{
     background-position: center;
 }
 
-/* Main Content Style*/
+/* Main Content Style */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -111,7 +111,7 @@ main {
     font-size: 36px;
 }
 
-/* Benefits Side Panel*/
+/* Benefits Side Panel */
 
 .benefits { 
     margin-right: 20px;
@@ -138,7 +138,7 @@ main {
     max-width: 150px;
 }
 
-/*Footer*/
+/* Footer */
 
 .footer {
     padding: 30px;
